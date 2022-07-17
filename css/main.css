@@ -501,11 +501,11 @@ img {
 }
 
 .social__link--fb {
-  background-image: url(../../img/fb.svg);
+  background-image: url(../img/fb.svg);
 }
 
 .social__link--tw {
-  background-image: url(../../img/tw.svg);
+  background-image: url(../img/tw.svg);
 }
 
 .logo {
@@ -542,7 +542,7 @@ img {
 .hero {
   height: 100vh;
   min-height: 600px;
-  background-image: url(./img/first-bg@1x.jpg);
+  background-image: url(../img/first-bg@1x.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
